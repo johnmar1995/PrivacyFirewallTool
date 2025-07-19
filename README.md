@@ -38,8 +38,6 @@ Right-click "setup.exe and run as administrator.
 
 ## License
 
-MIT
-
 License
 MIT License
 
