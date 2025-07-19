@@ -30,7 +30,7 @@
 
 ## Installation
 
-Download the latest version from [Releases](https://github.com/your-username/Windows-Stealth/releases).
+Download the latest version from https://github.com/johnmar1995/Windows-Stealth.git
 
 ## Usage
 
