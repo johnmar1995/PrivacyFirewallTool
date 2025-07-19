@@ -7,7 +7,7 @@
 - ✅ Enable and disable Windows Firewall stealth settings.
 - 🔒 Block both ICMPv4 (ping) and ICMPv6 (ping6) on "Enable Stealth"
 - 🚫 Disable File and Printer Sharing and Network Discovery.
-- 📡 Easy click and block Nmap scan for open ports.
+- 📡 Easy click and block Nmap Stealth SYN Scan for open ports.
 - 🖥️ Simple, retro-style GUI built with Windows Forms and custom styling.
 
 ---
