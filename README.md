@@ -1,13 +1,13 @@
 # Windows Stealth
 
-**Windows Stealth** is a PowerShell-based Windows Forms application that allows users to enable or disable stealth mode on their system. Stealth mode restricts incoming ICMPv4 (ping) requests and disables network discovery and file sharing services, effectively making the system "invisible" on a local network.
+**Windows Stealth** is a PowerShell-based Windows Forms application that allows users to enable or disable stealth mode on their system. Stealth mode restricts incoming ICMPv4 and ICMPv6 (ping) requests and disables network discovery for open ports and file sharing services, effectively making the system "invisible" on a local network.
 
 ## Features
 
 - ✅ Enable and disable Windows Firewall stealth settings.
-- 🔒 Block ICMPv4 Echo Requests (ping).
+- 🔒 Block ICMPv4 and ICMPv6 Echo Requests (ping).
 - 🚫 Disable File and Printer Sharing and Network Discovery.
-- 📡 System tray integration with minimize-to-tray support.
+- 📡 Easy click and block Nmap scan for open ports.
 - 🖥️ Simple, retro-style GUI built with Windows Forms and custom styling.
 
 ---
