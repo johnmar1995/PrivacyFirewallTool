@@ -1,3 +1,10 @@
+<img width="1054" height="157" alt="image" src="https://github.com/user-attachments/assets/9734a2e6-3268-45f1-a1e8-70af88e04be0" />
+
+
+Sorry for the inconvenience, I already submitted it to Microsoft, and Microsoft Defender detects it as a false positive.
+
+
+
 # Windows Stealth
 
 **Windows Stealth** is a PowerShell-based Windows Forms application that allows users to enable or disable stealth mode on their system. Stealth mode restricts incoming ICMPv4 and ICMPv6 (ping) requests and disables network discovery for open ports and file sharing services, effectively making the system "invisible" on a local network.
