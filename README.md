@@ -5,6 +5,9 @@ Sorry for the inconvenience, I already submitted it to Microsoft!
 
 Microsoft Defender detects it as a false positive!
 
+<img width="915" height="409" alt="image" src="https://github.com/user-attachments/assets/fab2ca33-5890-4080-8a79-6807edc64ee4" />
+
+
 Thank you:-)
 
 
