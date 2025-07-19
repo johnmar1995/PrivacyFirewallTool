@@ -5,7 +5,7 @@
 ## Features
 
 - ✅ Enable and disable Windows Firewall stealth settings.
-- 🔒 Block ICMPv4 and ICMPv6 Echo Requests (ping).
+- 🔒 Block both ICMPv4 (ping) and ICMPv6 (ping6) on "Enable Stealth"
 - 🚫 Disable File and Printer Sharing and Network Discovery.
 - 📡 Easy click and block Nmap scan for open ports.
 - 🖥️ Simple, retro-style GUI built with Windows Forms and custom styling.
@@ -16,6 +16,10 @@
 
 
 <img width="1011" height="768" alt="image" src="https://github.com/user-attachments/assets/4fcca9a7-20c1-4a3d-882a-bc1ead76e1c0" />
+
+
+<img width="996" height="702" alt="image" src="https://github.com/user-attachments/assets/ff57e0fe-ff92-435d-8018-4bb3fc0bca6f" />
+
 
 
 ---
