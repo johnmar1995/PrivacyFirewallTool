@@ -38,7 +38,7 @@ Download the latest version from https://github.com/johnmar1995/Windows-Stealth.
 
 ## Usage
 
-Right-click "setup.exe and run as administrator.
+Right-click "WindowsStealthInstaller.exe" and run it as an administrator.
 
 ## License
 
