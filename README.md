@@ -15,9 +15,11 @@ Created by **junIOS — 2025**
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Screenshot
 
+<img width="337" height="196" alt="image" src="https://github.com/user-attachments/assets/555e7979-b351-4888-9b3a-1fdbe0b69e3d" />
 
+<img width="347" height="192" alt="image" src="https://github.com/user-attachments/assets/afe9cbb1-f8d3-4d59-865d-ab72b6f91f2b" />
 
 ---
 
