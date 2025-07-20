@@ -22,7 +22,7 @@ Thank you:-)
 - 🔒 Block both ICMPv4 (ping) and ICMPv6 (ping6) on "Enable Stealth"
 - 🚫 Disable File, Printer Sharing, and Network Discovery.
 - 📡 Easy click and block Nmap Stealth SYN Scan.
-- 🖥️ Simple, retro-style GUI built with system tray.
+- 🖥️ Simple, retro-style built with system tray.
 
 ---
 
