@@ -30,7 +30,7 @@
 
 <img width="1897" height="1031" alt="image" src="https://github.com/user-attachments/assets/95766c06-b36e-4e1c-a4d3-59f45177de1a" />
 
-![Uploading image.png…]()
+<img width="1911" height="1024" alt="image" src="https://github.com/user-attachments/assets/6b1dabdd-93b0-4d76-9026-46ab21e0cd8a" />
 
 ---
 
