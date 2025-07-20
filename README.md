@@ -1,4 +1,5 @@
-🔐 Privacy Firewall Tool is a lightweight, user-friendly GUI app that lets you enable or disable stealth mode on your Windows system with a single click. Stealth mode blocks incoming ICMP (ping) requests and disables file sharing and network discovery, helping make your device invisible on local networks — a simple privacy defense layer against common scanning tools like Nmap.
+🔐 Privacy Firewall Tool
+Privacy Firewall Tool is a lightweight, user-friendly GUI app that lets you enable or disable stealth mode on your Windows system with a single click. Stealth mode blocks incoming ICMP (ping) requests and disables file sharing and network discovery, helping make your device invisible on local networks — a simple privacy defense layer against common scanning tools like Nmap.
 
 ✨ Features
 ✅ One-Click Stealth Toggle
@@ -21,6 +22,7 @@ No bloat. Just function — and a nostalgic touch of classic Windows.
 
 🖼️ Screenshots
 Coming soon...
+You can also submit your screenshots via pull request if you’d like to contribute!
 
 ⚙️ System Requirements
 🪟 Windows 10 / Windows 11
