@@ -30,5 +30,7 @@ Created by **junIOS — 2025**
 ```bash
 git clone https://github.com/your-username/windows-stealth.git
 
-### 📁 Click Code on the upper right side, then click the dropdown arrow and select Download ZIP. Once the ZIP file is downloaded, extract it. Right-click the extracted folder and choose Run as administrator.
+or
+
+Click Code on the upper right side, then click the dropdown arrow and select Download ZIP. Once the ZIP file is downloaded, extract it. Right-click the extracted folder and choose Run as administrator.
 Note: If SmartScreen appears (this is expected by default), click More info, then click Run anyway, and choose Yes to proceed with the installation.
