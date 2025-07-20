@@ -1,32 +1,38 @@
-Privacy Firewall Tool is a user-friendly GUI application designed to enable or disable stealth mode on your Windows system. When activated, stealth mode blocks incoming ICMPv4 and ICMPv6 (ping) requests and disables network discovery for open ports and file sharing services, effectively making your device less visible on local networks.
+🔐 Privacy Firewall Tool
+Privacy Firewall Tool is a lightweight, user-friendly GUI app that lets you enable or disable stealth mode on your Windows system with a single click. Stealth mode blocks incoming ICMP (ping) requests and disables file sharing and network discovery, helping make your device invisible on local networks — a simple privacy defense layer against common scanning tools like Nmap.
 
-🔐 Features
-✅ Toggle stealth settings in the Windows Firewall with one click.
+✨ Features
+✅ One-Click Stealth Toggle
+Quickly switch stealth mode on or off via the app's intuitive interface.
 
-🔒 Block both ICMPv4 (ping) and ICMPv6 (ping6) when stealth is enabled.
+🔒 Block ICMPv4 & ICMPv6 Ping Requests
+Stops inbound ping traffic (IPv4 and IPv6) for extra privacy.
 
-🚫 Disable File and Printer Sharing, as well as Network Discovery.
+🚫 Disable File & Printer Sharing
+Prevents your PC from broadcasting file and printer sharing services.
 
-📡 Simple toggle to help mitigate Nmap stealth SYN scans.
+📡 Network Discovery Shield
+Turns off discovery protocols to reduce visibility on local networks.
 
-🖥️ Lightweight, retro-style UI.
+👻 Nmap-Resistant
+Helps mitigate stealth SYN scans commonly used in network enumeration.
+
+🖥️ Retro-Inspired, Lightweight GUI
+No bloat. Just function — and a nostalgic touch of classic Windows.
 
 🖼️ Screenshots
-<img width="1012" height="755" alt="image" src="https://github.com/user-attachments/assets/93492a77-79b6-4403-9d12-c0b42aa21c00" /> <img width="1015" height="764" alt="image" src="https://github.com/user-attachments/assets/fb2deb2c-cce9-41d9-9915-d306e8a375ee" />
-⚙️ Requirements
-Windows 10 or Windows 11
+Coming soon...
 
-PowerShell 5.0 or higher
+⚙️ System Requirements
+🪟 Windows 10 / Windows 11
 
-Administrator privileges (required to modify firewall settings)
+⚡ PowerShell 5.0 or newer
+
+🔐 Administrator Privileges (required to edit firewall settings)
 
 📥 Installation
-Download the latest release from:
-[https://github.com/johnmar1995/Windows-Stealth.git](https://github.com/johnmar1995/PrivacyFirewallTool/)
+Head over to the Releases page.
 
-🚀 Usage
-Right-click PrivacyFirewallToolInstaller.exe and select Run as Administrator to launch the installer.
+Download the latest version of PrivacyFirewallToolInstaller.exe.
 
-👤 Author
-Developed by junIOS
-© 2025 All rights reserved.
+Right-click the file and select “Run as Administrator” to launch the installer.
