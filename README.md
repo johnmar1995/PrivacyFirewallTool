@@ -1,39 +1,75 @@
-🔐 Privacy Firewall Tool
-Privacy Firewall Tool is a lightweight, user-friendly GUI app that lets you enable or disable stealth mode on your Windows system with a single click. Stealth mode blocks incoming ICMP (ping) requests and disables file sharing and network discovery, helping make your device invisible on local networks — a simple privacy defense layer against common scanning tools like Nmap.
+# 🔐 Privacy Firewall Tool
 
-✨ Features
-✅ One-Click Stealth Toggle
-Quickly switch stealth mode on or off via the app's intuitive interface.
+**Privacy Firewall Tool** is a lightweight, user-friendly GUI app that lets you **enable or disable stealth mode** on your Windows system with a single click. Stealth mode blocks incoming ICMP (ping) requests and disables file sharing and network discovery, helping make your device invisible on local networks — a simple privacy defense layer against common scanning tools like **Nmap**.
 
-🔒 Block ICMPv4 & ICMPv6 Ping Requests
-Stops inbound ping traffic (IPv4 and IPv6) for extra privacy.
+---
 
-🚫 Disable File & Printer Sharing
-Prevents your PC from broadcasting file and printer sharing services.
+## ✨ Features
 
-📡 Network Discovery Shield
-Turns off discovery protocols to reduce visibility on local networks.
+- ✅ **One-Click Stealth Toggle**  
+  Quickly switch stealth mode on or off via the app's intuitive interface.
 
-👻 Nmap-Resistant
-Helps mitigate stealth SYN scans commonly used in network enumeration.
+- 🔒 **Block ICMPv4 & ICMPv6 Ping Requests**  
+  Stops inbound ping traffic (IPv4 and IPv6) for extra privacy.
 
-🖥️ Retro-Inspired, Lightweight GUI
-No bloat. Just function — and a nostalgic touch of classic Windows.
+- 🚫 **Disable File & Printer Sharing**  
+  Prevents your PC from broadcasting file and printer sharing services.
 
-🖼️ Screenshots
-Coming soon...
-You can also submit your screenshots via pull request if you’d like to contribute!
+- 📡 **Network Discovery Shield**  
+  Turns off discovery protocols to reduce visibility on local networks.
 
-⚙️ System Requirements
-🪟 Windows 10 / Windows 11
+- 👻 **Nmap-Resistant**  
+  Helps mitigate stealth SYN scans commonly used in network enumeration.
 
-⚡ PowerShell 5.0 or newer
+- 🖥️ **Retro-Inspired, Lightweight GUI**  
+  No bloat. Just a function — and a nostalgic touch of classic Windows.
 
-🔐 Administrator Privileges (required to edit firewall settings)
+---
 
-📥 Installation
-Head over to the Releases page.
+## 🖼️ Screenshots
 
-Download the latest version of PrivacyFirewallToolInstaller.exe.
+> _Coming soon..._  
 
-Right-click the file and select “Run as Administrator” to launch the installer.
+---
+
+## ⚙️ System Requirements
+
+- 🪟 **Windows 10 / Windows 11**
+- ⚡ **PowerShell 5.0 or newer**
+- 🔐 **Administrator Privileges** (required to edit firewall settings)
+
+---
+
+## 📥 Installation
+
+1. Download the latest version of `PrivacyFirewallToolInstaller.exe`.
+2. Right-click the file and select **"Run as Administrator"** to launch the installer.
+
+---
+
+## 🚀 Usage
+
+Once installed:
+
+1. Launch the **Privacy Firewall Tool** from your Start Menu or Desktop.
+2. Click the **Enable Stealth Mode** button to activate privacy features.
+3. Click **Disable Stealth Mode** to revert all changes.
+
+> ⚠️ The application modifies firewall rules — changes take effect immediately.
+
+---
+
+## 👨‍💻 Author
+
+Developed by [**junIOS**](https://github.com/johnmar1995)  
+© 2025 — All rights reserved.
+
+---
+
+## ⭐ Contribute / Support
+
+If you find this tool useful:
+
+- ⭐ Star the repo
+- 🗣️ Share it with others who value privacy
+- 🛠️ [Submit issues](https://github.com/johnmar1995/PrivacyFirewallTool/issues) or improvements via PRs
