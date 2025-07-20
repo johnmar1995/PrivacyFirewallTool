@@ -28,7 +28,9 @@
 
 ## 🖼️ Screenshots
 
-> _Coming soon..._  
+<img width="1897" height="1031" alt="image" src="https://github.com/user-attachments/assets/95766c06-b36e-4e1c-a4d3-59f45177de1a" />
+
+![Uploading image.png…]()
 
 ---
 
