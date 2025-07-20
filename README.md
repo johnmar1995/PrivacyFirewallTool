@@ -14,7 +14,7 @@ Thank you:-)
 
 # Windows Stealth
 
-**Windows Stealth** is an application that allows users to enable or disable stealth mode on their system. Stealth mode restricts incoming ICMPv4 and ICMPv6 (ping) requests and disables network discovery for open ports and file sharing services, effectively making the system "invisible" on a local network.
+**Windows Stealth** is a GUI application that allows users to enable or disable stealth mode on their system. Stealth mode restricts incoming ICMPv4 and ICMPv6 (ping) requests and disables network discovery for open ports and file sharing services, effectively making the system "invisible" on a local network.
 
 ## Features
 
