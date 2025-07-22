@@ -1,6 +1,6 @@
 # 🛡️ Windows Stealth
 
-A sleek PowerShell GUI tool for toggling Windows Firewall settings to enhance your system’s privacy and reduce network visibility. Designed with a modern neon-themed interface.  
+A sleek GUI tool for toggling Windows Firewall settings to enhance your system’s privacy and reduce network visibility. Designed with a modern neon-themed interface.  
 Created by **junIOS — 2025**
 
 ---
